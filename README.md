@@ -9,12 +9,17 @@ I am **Sicheng** and here are things about me:
 - ⚡ Fun fact: I'm trying to come up with some yet!
 
 #### Skills:
+
 > HTML, CSS3, JavaScript(ES6)
+
 > React, Vue
 
 #### Now Learning:
+
 > Webpack
+
 > HTTP protocal
 
 ### More about me at:
+
 🔗 https://wallygood.net 
