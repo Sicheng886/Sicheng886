@@ -14,7 +14,7 @@ I am **Sicheng** and here are things about me:
 
 - HTTP protocal
 
-#### Fun Fact:
+#### ⚡ Fun Fact:
 
 I don't really like drinking water. Some tea please 🍵.
 
