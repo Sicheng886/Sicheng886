@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sicheng886.Sicheng886)
 
 I am **Sicheng** and here are things about me:
+
+![Sicheng's github stats](https://github-readme-stats.vercel.app/api?username=sicheng886&show_icons=true)
 
 #### 🔭 Skills:
 
@@ -12,7 +14,7 @@ I am **Sicheng** and here are things about me:
 
 - Webpack
 
-- HTTP protocal
+- HTTP protocol
 
 #### ⚡ Fun Fact:
 
@@ -20,4 +22,4 @@ I don't really like drinking water. Some tea please 🍵.
 
 ### 🔗 More about me at:
 
-https://wallygood.net 
+[wallygood.net](https://wallygood.net) 
