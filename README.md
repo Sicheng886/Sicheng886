@@ -2,7 +2,7 @@
 
 I am **Sicheng** and here are things about me:
 
-![Sicheng's github stats](https://github-readme-stats.vercel.app/api?username=sicheng886&show_icons=true)
+![Sicheng's github stats](https://github-readme-stats.vercel.app/api?username=sicheng886&show_icons=true&theme=onedark)
 
 #### 🔭 Skills:
 
